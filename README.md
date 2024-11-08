@@ -52,7 +52,3 @@ The dataset used in this project consists of survey responses from Thammasat Uni
 ## Contributing
 
 Feel free to fork this repository and contribute improvements to the analysis or visualizations. Pull requests are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
